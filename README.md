@@ -24,6 +24,8 @@ git add README.md
 git commit -S -m "update README"
 ```
 
+- To see the commits in the backend project, check the [backend_commits.png](./screenshots/backend_commits.png) image
+
 **1/5 points - Create a milestone and assign it at least two nicely filled issues.**
 
 - Check the image [Milestone_Issues.png](./screenshots/Milestone_Issues.png)
