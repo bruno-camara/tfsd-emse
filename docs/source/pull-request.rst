@@ -13,4 +13,4 @@ Push it to github:
 
     git push --set-upstream origin featuresum
 
-Check the image `pull_request.png <../../screenshots/pull_request.png>`_ to view the pull request on github
+Check the image `pull_request.png <https://github.com/bruno-camara/tfsd-emse/blob/main/screenshots/pull_request.png>`_ to view the pull request on github
