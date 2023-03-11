@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'TFSD EMSE'
+copyright = '2022, Bruno Camara'
+author = 'Bruno Camara'
 
 release = '0.1'
 version = '0.1.0'
