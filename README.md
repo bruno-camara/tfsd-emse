@@ -1,6 +1,9 @@
 # GIT basic features - tfsd-emse
 > Repository for git and github basic features for Technological foundations of software development class.
 
+## Documentation
+The documentation can be found in https://tfsd-emse.readthedocs.io/en/latest/ . It was made using Read The Docs. All the files used are in the folder [docs](./docs/)
+
 ## Questions
 
 **0.5/5 points - Create a private key/public key pair, add your public key on github/gitlab.**
