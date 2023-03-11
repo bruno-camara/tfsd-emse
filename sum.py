@@ -1,8 +1,16 @@
-# Feature to sum 2 numbers
+# Feature to add 2 numbers
 
-nb_1 = 3354
-nb_2 = 7669
+def sum(nb1, nb2):
+    """
+    This function adds 2 numbers
 
-sum = nb_1 + nb_2
+    :param nb1: First number to be added
+    :param nb2: Second number to be added
+    :returns: The return is the sum of the 2 parameters
+    :raises keyError: raises an exception
+    """
 
-print("A soma de", nb_1, "com", nb_2, "é", sum)
+    sum = nb1 + nb2
+    return sum
+
+print("A soma é", sum(3354, 7669))
