@@ -1,6 +1,6 @@
 GPG
 ===
 
-See the image `Link GPG.png ./screenshots/GPG.png` to view the configuration process
+See the image `GPG.png <../../screenshots/GPG.png>` to view the configuration process
 
-:doc: `./screenshots/GPG2.png` Check the image to see the prove that my commits are now verified
+Check the image `GPG2 ./screenshots/GPG2.png` to see the proof that my commits are now verified
