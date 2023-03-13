@@ -14,7 +14,6 @@ jobs:
     - uses: ammaraskar/sphinx-action@master
       with:
         docs-folder: "docs/"
-    - uses: actions/checkout@v3
     - run: mkdir -p docs/_build/html/
     - uses: actions/upload-artifact@v1
       with:
